@@ -10,4 +10,4 @@ def indix(request):
     return render(request, 'indix.html')
 
 def contact(request):
-    return render(request, 'contect.html')
+    return render(request, 'contact.html')
